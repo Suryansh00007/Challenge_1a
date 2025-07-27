@@ -1,4 +1,4 @@
-# 📄 PDF Outline Extractor (Challenge 1A)
+#  PDF Outline Extractor (Challenge 1A)
 
 This solution extracts a structured **outline** from PDF documents, identifying:
 - The document **title**
@@ -9,7 +9,7 @@ It generates a **schema-compliant JSON output** for each PDF, and is designed to
 
 ---
 
-## 🚀 What It Does
+##  What It Does
 
 - Reads PDF files (up to 50 pages) from the `/app/input` directory
 - For each PDF:
@@ -22,7 +22,7 @@ It generates a **schema-compliant JSON output** for each PDF, and is designed to
 
 ---
 
-## 🧰 Key Libraries Used
+##  Key Libraries Used
 
 | Library      | Purpose |
 |--------------|---------|
@@ -32,7 +32,7 @@ It generates a **schema-compliant JSON output** for each PDF, and is designed to
 
 ---
 
-## 📥 Example Output
+##  Example Output
 
 ```json
 {
